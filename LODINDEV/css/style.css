@@ -52,7 +52,7 @@ body {
     line-height: 30px;
 }
 .description-primary {
-    color: #fff;
+    color: #0d1117;
 }
 .description-second {
     color: #7f8c8d;
@@ -142,15 +142,15 @@ body {
     height: 45px;
     width: 100%;
     border: none;
-    background-color: #ecf0f1;
+    background-color: #1a2433;
 }
 input:-webkit-autofill 
 {    
-    -webkit-box-shadow: 0 0 0px 1000px #ecf0f1 inset !important;
+    -webkit-box-shadow: 0 0 0px 1000px #1a2433 inset !important;
     -webkit-text-fill-color: #000 !important;
 }
 .label-input {
-    background-color: #ecf0f1;
+    background-color: #1a2433;
     display: flex;
     align-items: center;
     margin: 8px;
